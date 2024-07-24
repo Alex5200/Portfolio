@@ -1,0 +1,18 @@
+---
+import IntroReact from "./IntroReact"
+import SteckTech from "./SteckTech"
+import Portfolio from "./Portfolio"
+import Contacts from "./Contacts"
+---
+<div class="-z-1 flex-col justify-center items-center">
+<IntroReact client:load/>
+<SteckTech client:load/>
+<hr  color="black " class="my-10 text-center "   style="margin-left: auto; margin-right: auto;  border: solid 2px; opacity: 0.4; color:#1e40af; width: 70%; border-radius: 1em; "  />
+<div class="flex justify-center items-center mt-6">
+    <p class="text-4xl font-bold text-black/70 ">Portfolio</p>
+</div>
+<Portfolio client:load/>
+<hr  color="black " class="my-10 text-center "   style="margin-left: auto; margin-right: auto;  border: solid 2px; opacity: 0.4; color:#1e40af; width: 70%; border-radius: 1em; "  />
+<p class="text-2xl font-bold text-center">Contacts</p>
+<Contacts/>
+</div>
