@@ -27,6 +27,7 @@
     "popmotion": "^11.0.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "red-radiation": "file:",
     "tailwindcss": "^3.4.6",
     "three": "^0.137.5",
     "typescript": "^5.5.4",

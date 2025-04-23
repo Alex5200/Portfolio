@@ -1,3 +1,9 @@
+# interface program
+<img style="width:600px; text-align:center;" src="./Картинка интерфейса.bmp"/>
+
+# interface admin panel
+<img style="width:900px; text-align:center" src="./Интерфейс админ панели.bmp"/>
+
 # Astro Starter Kit: Basics
 
 ```sh
